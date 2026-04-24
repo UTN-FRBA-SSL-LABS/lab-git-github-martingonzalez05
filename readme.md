@@ -754,15 +754,15 @@ RESPUESTA_P7=c
 
 **P3** — Un compañero te dice: "yo hago un solo commit al final del día con todo lo que hice". ¿Qué problemas puede traer esa práctica? ¿Qué le dirías?
 
-> R:
+> R: Trae problemas porque si algo falla, perdés todo el trabajo del día al revertir. Le diría que haga commits atómicos por cada pequeña funcionalidad terminada.
 
 **P4** — ¿Cuál es la diferencia entre `git fetch` y `git pull`? ¿Cuándo preferirías usar uno sobre el otro?
 
-> R:
+> R:Fetch solo descarga, Pull descarga y mezcla. Preferiría Fetch para revisar qué cambió antes de meterlo en mi código.
 
 **P5** — ¿Qué información debería tener la descripción de un Pull Request para que sea útil para quien lo revisa?
 
-> R:
+> R: Tiene que tener el "que", el "por que" y como se testeo.
 
 
 ---
