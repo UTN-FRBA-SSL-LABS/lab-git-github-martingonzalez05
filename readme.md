@@ -838,3 +838,5 @@ El puntaje mínimo para aprobar es **60 / 100**.
 - Push a `main`
 
 El CI corre automáticamente. En la pestaña **Actions** podés ver qué checks pasan.
+
+//Fin del Lab
